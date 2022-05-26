@@ -12,4 +12,4 @@ https://user-images.githubusercontent.com/104394666/170583997-7b1764f1-5fc1-4514
 
 # walkthrough
 
-[walkthrough.pdf](https://github.com/sajithgairuka/Cyber1337s-1/files/8782290/walkthrough.pdf)
+You can find walkthrough in this [link](https://github.com/sajithgairuka/Cyber1337s-1/files/8782290/walkthrough.pdf)
