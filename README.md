@@ -1,2 +1,2 @@
-# Steganography Challenge
+# Steganography Challenge :trollface:
 
