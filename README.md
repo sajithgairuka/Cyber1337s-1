@@ -1,2 +1,2 @@
-# Cyber1337s
-Steganography 🌐♻ 
+# Steganography Challenge
+
